@@ -33,7 +33,7 @@
 - Английский язык — уровень A1 (начальный, изучаю активно)
 
 ## Примеры работ:
-- [Баг-репорт]()
+- [Баг-репорт](https://github.com/MarininiPo/Bug-report)
 - [Test-case](https://github.com/MarininiPo/---)
 - [Портфолио](https://portfolio-coral-gamma-72.vercel.app/)
 - [Пример проекта: Cookies](https://cookies-phi.vercel.app/)
