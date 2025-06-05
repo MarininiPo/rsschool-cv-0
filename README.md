@@ -2,7 +2,7 @@
 
 ## Контактная информация:
 - Email: [marinini.po@gmail.com](mailto:marinini.po@gmail.com)
-- Telegram: [@maripoli]
+- Telegram: [@maripoli](https://t.me/Maripoli)
 - 
 ## Цель
 
